@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_KjcK4cK8Eee-59bvBj40bA" label="oct2017_6_4" description="Project for DI practice" language="java" technicalLabel="OCT2017_6_4" creationDate="2017-11-06T11:54:55.097+0530" author="_KjcK4sK8Eee-59bvBj40bA" referencedProjects="_IId8QcLHEeeTXePKuRabrA" productVersion="Talend Data Integration-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ravikumar90/oct2017.git&quot;,&quot;login&quot;:&quot;ravikumar90&quot;,&quot;passwd&quot;:&quot;CXVYuoyMVqTtqGFrx9Ro1A==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_KjcK4cK8Eee-59bvBj40bA" label="oct2017_6_4" description="Project for DI practice" language="java" technicalLabel="OCT2017_6_4" creationDate="2017-11-06T11:54:55.097+0530" author="_KjcK4sK8Eee-59bvBj40bA" productVersion="Talend Data Integration-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ravikumar90/oct2017.git&quot;,&quot;login&quot;:&quot;ravikumar90&quot;,&quot;passwd&quot;:&quot;CXVYuoyMVqTtqGFrx9Ro1A==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
     <technicalStatus xmi:id="_KplPIMK8Eee-59bvBj40bA" label="development" code="DEV"/>
     <technicalStatus xmi:id="_KplPIcK8Eee-59bvBj40bA" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_KplPIsK8Eee-59bvBj40bA" label="production" code="PROD"/>
@@ -366,7 +366,4 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_KjcK4sK8Eee-59bvBj40bA" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_KppgkMK8Eee-59bvBj40bA" login="mahesh@gmail.com" firstName="Mahesh" lastName="Badikela" type="DI" additionnalData="{}"/>
-  <TalendProperties:ProjectReference xmi:id="_IId8QcLHEeeTXePKuRabrA" project="_KjcK4cK8Eee-59bvBj40bA" branch="branches/csv_integration" referencedBranch="branches/csv_integration">
-    <referencedProject href="../OCT2017_6_4_1/talend.project#projectReference"/>
-  </TalendProperties:ProjectReference>
 </xmi:XMI>
